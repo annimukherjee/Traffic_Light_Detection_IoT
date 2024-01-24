@@ -9,6 +9,10 @@ The database is collected in San Diego, California, USA. The database provides f
 > Stats: 44.1k files 
 
 
+![output](https://github.com/annimukherjee/Traffic_Light_Detection_IoT/assets/85307430/9b77baf4-2a9d-403c-b568-73946ea7bf87)
+
+
+
 
 <br>
 <br>
@@ -19,9 +23,6 @@ The database is collected in San Diego, California, USA. The database provides f
 <br>
 <br>
 <br>
-
-
-
 
 
 
